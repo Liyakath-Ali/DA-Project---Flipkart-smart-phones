@@ -1,0 +1,108 @@
+brand,model,colour,original_price,discounted_price,ratings,rating_count,reviews,memory,storage,processor,rear_camera,front_camera,display_size,battery_capacity,battery_type
+MOTOROLA,"MOTOROLA EDGE 30 FUSION ","Solar Gold",49999,39999,4.4,2621,456,8,128,"Qualcomm Snapdragon 888 +","50MP + 13MP + 2MP "," 32MP",16.64,4400.0,Lithium
+MOTOROLA,"MOTOROLA EDGE 30 ULTRA ","Interstellar Black",69999,54999,4.4,1112,213,8,128,"Qualcomm Snapdragon 8+ Gen 1","200MP + 50MP + 12MP "," 60MP",16.94,4610.0,Lithium
+MOTOROLA,"MOTOROLA EDGE 30 ULTRA ","Starlight White",69999,54999,4.4,1112,213,8,128,"Qualcomm Snapdragon 8+ Gen 1","200MP + 50MP + 12MP "," 60MP",16.94,4610.0,Lithium
+MOTOROLA,"MOTOROLA EDGE 30 FUSION ","Cosmic grey",49999,39999,4.4,2621,456,8,128,"Qualcomm Snapdragon 888 +","50MP + 13MP + 2MP "," 32MP",16.64,4400.0,Lithium
+OPPO,"OPPO F19 ","Midnight Blue",20990,14990,4.3,25035,1801,6,128,"Qualcomm Snapdragon 662","48MP + 2MP + 2MP "," 16MP",16.33,5000.0,
+OPPO,"OPPO RENO8T 5G ","Sunrise Gold",38999,29999,4.3,1761,196,8,128,"Qualcomm Snapdragon 695","108MP + 2MP + 2MP "," 32MP",17.02,4800.0,Lithium
+OPPO,"OPPO RENO8T 5G ","Midnight Black",38999,29999,4.3,1761,196,8,128,"Qualcomm Snapdragon 695","108MP + 2MP + 2MP "," 32MP",17.02,4800.0,Lithium
+OPPO,"OPPO A76 ","Glowing Black",21499,16490,4.3,360,27,6,128,"Qualcomm Snapdragon 680","13MP + 2MP "," 8MP",16.66,5000.0,"Lithium Ion"
+OPPO,"OPPO F19 ","Prism Black",20990,14990,4.3,25035,1801,6,128,"Qualcomm Snapdragon 662","48MP + 2MP + 2MP "," 16MP",16.33,5000.0,
+OPPO,"OPPO K10 ","Black Carbon",18999,13990,4.4,103802,7606,6,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.74,5000.0,"Lithium Ion"
+OPPO,"OPPO F19S ","Glowing Gold",22990,15990,4.5,10073,555,6,128,"Qualcomm Snapdragon 662","48MP + 2MP + 2MP "," 16MP",16.33,5000.0,
+OPPO,"OPPO A96 ","Starry Black",23999,17999,4.3,973,94,8,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 16MP",16.74,5000.0,"Lithium Ion"
+OPPO,"OPPO A77S ","Starry Black",22999,17999,4.3,263,21,8,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.66,5000.0,Lithium
+OPPO,"OPPO A77S ","Sunset Orange",22999,17999,4.3,263,21,8,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.66,5000.0,Lithium
+OPPO,"OPPO K10 ","Blue Flame",18999,13990,4.4,103802,7606,6,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.74,5000.0,"Lithium Ion"
+OPPO,"OPPO A76 ","Glowing Blue",21499,16490,4.3,360,27,6,128,"Qualcomm Snapdragon 680","13MP + 2MP "," 8MP",16.66,5000.0,"Lithium Ion"
+OPPO,"OPPO A96 ","Sunset Blue",23999,17999,4.3,973,94,8,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 16MP",16.74,5000.0,"Lithium Ion"
+REALME,"REALME GT 2 ","Paper Green",39999,34999,4.3,5990,785,8,128,"Qualcomm Snapdragon 888","50MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME 9 PRO 5G ","Midnight Black",23999,20999,4.3,14450,1165,8,128,"Qualcomm Snapdragon 695","64MP + 8MP + 2MP "," 16MP",16.76,5000.0,"Lithium Ion"
+REALME,"REALME 9 ","Meteor Black",20999,16999,4.4,61332,4451,6,128,"Qualcomm Snapdragon 680","108MP + 8MP + 2MP "," 16MP",16.26,5000.0,"Lithium Ion"
+REALME,"REALME 9 ","Sunburst Gold",22999,17999,4.4,24775,1876,8,128,"Qualcomm Snapdragon 680","108MP + 8MP + 2MP "," 16MP",16.26,5000.0,"Lithium Ion"
+REALME,"REALME 10 PRO 5G ","Nebula Blue",22999,19999,4.4,5932,471,8,128,"Qualcomm Snapdragon 695 5G","108MP + 2MP "," 16MP",17.07,5000.0,
+REALME,"REALME 10 PRO 5G ",Hyperspace,20999,18999,4.4,9577,801,6,128,"Qualcomm Snapdragon 695 5G","108MP + 2MP "," 16MP",17.07,5000.0,
+REALME,"REALME 10 PRO 5G ","Dark Matter",20999,18999,4.4,9577,801,6,128,"Qualcomm Snapdragon 695 5G","108MP + 2MP "," 16MP",17.07,5000.0,
+REALME,"REALME 10 PRO 5G ","Nebula Blue",20999,18999,4.4,9577,801,6,128,"Qualcomm Snapdragon 695 5G","108MP + 2MP "," 16MP",17.07,5000.0,
+REALME,"REALME 9 ","Meteor Black",22999,17999,4.4,24775,1876,8,128,"Qualcomm Snapdragon 680","108MP + 8MP + 2MP "," 16MP",16.26,5000.0,"Lithium Ion"
+REALME,"REALME 9 ","Stargaze White",22999,17999,4.4,24775,1876,8,128,"Qualcomm Snapdragon 680","108MP + 8MP + 2MP "," 16MP",16.26,5000.0,"Lithium Ion"
+REALME,"REALME 9 PRO 5G ","Aurora Green",21999,18999,4.4,81684,6856,6,128,"Qualcomm Snapdragon 695","64MP + 8MP + 2MP "," 16MP",16.76,5000.0,"Lithium Ion"
+REALME,"REALME 9 PRO 5G ","Midnight Black",21999,18999,4.4,81684,6856,6,128,"Qualcomm Snapdragon 695","64MP + 8MP + 2MP "," 16MP",16.76,5000.0,"Lithium Ion"
+REALME,"REALME 9 PRO 5G ","Sunrise Blue",21999,18999,4.4,81684,6856,6,128,"Qualcomm Snapdragon 695","64MP + 8MP + 2MP "," 16MP",16.76,5000.0,"Lithium Ion"
+REALME,"REALME 9 ","Sunburst Gold",20999,16999,4.4,61332,4451,6,128,"Qualcomm Snapdragon 680","108MP + 8MP + 2MP "," 16MP",16.26,5000.0,"Lithium Ion"
+REALME,"REALME 9 PRO 5G ","Sunrise Blue",23999,20999,4.3,14450,1165,8,128,"Qualcomm Snapdragon 695","64MP + 8MP + 2MP "," 16MP",16.76,5000.0,"Lithium Ion"
+REALME,"REALME 9 5G SE ","Starry Glow",26999,22999,4.3,2488,231,8,128,"Qualcomm Snapdragon 778G","48MP + 2MP + 2MP "," 16MP",16.76,5000.0,"Lithium Polymer"
+REALME,"REALME 9 5G SE ","Azure Glow",24999,19999,4.4,26850,2216,6,128,"Qualcomm Snapdragon 778G","48MP + 2MP + 2MP "," 16MP",16.76,5000.0,"Lithium Polymer"
+REALME,"REALME 9 5G SE ","Starry Glow",24999,19999,4.4,26850,2216,6,128,"Qualcomm Snapdragon 778G","48MP + 2MP + 2MP "," 16MP",16.76,5000.0,"Lithium Polymer"
+REALME,"REALME GT 2 ","Paper White",39999,34999,4.3,5990,785,8,128,"Qualcomm Snapdragon 888","50MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME 9 5G SE ","Azure Glow",26999,22999,4.3,2488,231,8,128,"Qualcomm Snapdragon 778G","48MP + 2MP + 2MP "," 16MP",16.76,5000.0,"Lithium Polymer"
+REALME,"REALME 9I ","Prism Blue",17999,15999,4.5,26434,1569,6,128,"Qualcomm Snapdragon 680 (SM6225)","50MP + 2MP + 2MP "," 16MP",16.76,5000.0,"Lithium Ion"
+REALME,"REALME 9I ","Prism Black",16999,14999,4.5,124865,7409,4,128,"Qualcomm Snapdragon 680 (SM6225)","50MP + 2MP + 2MP "," 16MP",16.76,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 3T ","Dash Yellow",34999,29999,4.3,12124,1413,6,128,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 3T ","Shade Black",36999,31999,4.3,7524,851,8,128,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 3T ","Dash Yellow",38999,33999,4.3,7524,851,8,256,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 3T ","Drifting White",38999,33999,4.3,7524,851,8,256,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 3T ","Shade Black",38999,33999,4.3,7524,851,8,256,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 3T ","Shade Black",34999,29999,4.3,12124,1413,6,128,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 3T ","Drifting White",34999,29999,4.3,12124,1413,6,128,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT 2 ","Steel Black",39999,34999,4.3,5990,785,8,128,"Qualcomm Snapdragon 888","50MP + 8MP + 2MP "," 16MP",16.81,5000.0,"Lithium Ion"
+REALME,"REALME GT NEO 2 ","NEO Black",34999,31999,4.4,18194,2478,8,128,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 16MP",16.81,5000.0,
+SAMSUNG,"SAMSUNG GALAXY F23 5G ","Copper Blush",23999,15999,4.3,157763,12636,6,128,"Qualcomm Snapdragon 750G","50MP + 8MP + 2MP "," 8MP",16.76,5000.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY A52 ","Awesome Blue",17999,25990,4.3,2150,261,6,128,"Qualcomm Snapdragon 720G","64MP + 12MP + 5MP + 5MP "," 32MP",16.51,4500.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY Z FLIP3 5G ",Cream,95999,69999,4.4,1876,144,8,128,"Qualcomm Snapdragon 888 Octa-Core","12MP + 12MP "," 10MP",17.02,3300.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY F23 5G ","Forest Green",23999,15999,4.3,157763,12636,6,128,"Qualcomm Snapdragon 750G","50MP + 8MP + 2MP "," 8MP",16.76,5000.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY A52 ","Awesome Black",17999,25490,4.3,2150,261,6,128,"Qualcomm Snapdragon 720G","64MP + 12MP + 5MP + 5MP "," 32MP",16.51,4500.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY Z FLIP3 5G ","Phantom Black",95999,69999,4.4,1876,144,8,128,"Qualcomm Snapdragon 888 Octa-Core","12MP + 12MP "," 10MP",17.02,3300.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY S22 PLUS 5G ",Green,101999,69999,4.5,2366,266,8,128,"Qualcomm Snapdragon 8 Gen 1","50MP + 12MP + 10MP "," 10MP",16.76,4500.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY F23 5G ","Aqua Blue",23999,15999,4.3,157763,12636,6,128,"Qualcomm Snapdragon 750G","50MP + 8MP + 2MP "," 8MP",16.76,5000.0,"Lithium Ion"
+SAMSUNG,"SAMSUNG GALAXY S23 5G ",Lavender,95999,79999,4.7,51,7,8,256,"Qualcomm Snapdragon 8 Gen 2","50MP + 10MP + 12MP "," 12MP",15.49,3900.0,"Lithium Ion"
+VIVO,"VIVO T1 44W ","Starry Sky",20990,15999,4.4,51365,3750,6,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.36,5000.0,Lithium
+VIVO,"VIVO T1 44W ","Starry Sky",23990,17999,4.3,5798,483,8,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.36,5000.0,Lithium
+VIVO,"VIVO T1X ","Gravity Black",17990,12999,4.5,78071,4429,4,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.71,5000.0,
+VIVO,"VIVO T1X ","Space Blue",16990,11999,4.5,78071,4429,4,64,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.71,5000.0,
+VIVO,"VIVO T1X ","Space Blue",17990,12999,4.5,78071,4429,4,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.71,5000.0,
+VIVO,"VIVO T1X ","Space Blue",18990,14999,4.4,4011,250,6,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.71,5000.0,
+VIVO,"VIVO Y33T ","Mirror Black",17490,17099,4.4,2576,182,8,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1X ","Gravity Black",18990,14999,4.4,4011,250,6,128,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.71,5000.0,
+VIVO,"VIVO T1 5G ","Starlight Black",19990,15990,4.3,63968,5079,4,128,"Qualcomm Snapdragon 695","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1X ","Gravity Black",16990,11999,4.5,78071,4429,4,64,"Qualcomm Snapdragon 680","50MP + 2MP "," 8MP",16.71,5000.0,
+VIVO,"VIVO Y33T ","Mid day dream",22990,17989,4.4,2576,182,8,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1 5G ","Rainbow Fantasy",23990,19990,4.3,16249,1401,8,128,"Qualcomm Snapdragon 695","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1 5G ","Starlight Black",23990,19990,4.3,16249,1401,8,128,"Qualcomm Snapdragon 695","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1 PRO 5G ","Turbo Black",28990,23999,4.4,7982,764,6,128,"Qualcomm Snapdragon 778G 5G Mobile Platform","64MP + 8MP + 2MP "," 16MP",16.36,4700.0,Lithium
+VIVO,"VIVO Y35 ","Dawn Gold",22999,18499,4.4,1670,119,8,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1 5G ","Starlight Black",20990,16990,4.4,167235,12790,6,128,"Qualcomm Snapdragon 695","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1 5G ","Rainbow Fantasy",20990,16990,4.4,167235,12790,6,128,"Qualcomm Snapdragon 695","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO Y35 ","Agate Black",22999,18499,4.4,1670,119,8,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1 PRO 5G ","Turbo Black",30990,24999,4.4,16255,1697,8,128,"Qualcomm Snapdragon 778G 5G Mobile Platform","64MP + 8MP + 2MP "," 16MP",16.36,4700.0,Lithium
+VIVO,"VIVO T1 PRO 5G ","Turbo Cyan",28990,23999,4.4,7982,764,6,128,"Qualcomm Snapdragon 778G 5G Mobile Platform","64MP + 8MP + 2MP "," 16MP",16.36,4700.0,Lithium
+VIVO,"VIVO T1 44W ","Starry Sky",19990,14499,4.5,87331,6044,4,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.36,5000.0,Lithium
+VIVO,"VIVO Y21T ","Midnight Blue",19990,15499,4.3,1559,107,4,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 8MP",16.71,5000.0,Lithium
+VIVO,"VIVO T1 44W ","Midnight Galaxy",20990,15999,4.4,51365,3750,6,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.36,5000.0,Lithium
+VIVO,"VIVO T1 44W ","Midnight Galaxy",23990,17999,4.3,5798,483,8,128,"Qualcomm Snapdragon 680","50MP + 2MP + 2MP "," 16MP",16.36,5000.0,Lithium
+XIAOMI,"REDMI NOTE 10 PRO ","Vintage Bronze",19999,17999,4.3,42313,3963,6,128,"Qualcomm Snapdragon 732G","64MP + 8MP + 5MP + 2MP "," 16MP",16.94,5020.0,"Lithium Polymer"
+XIAOMI,"REDMI NOTE 7S ","Onyx Black",17999,13999,4.4,422214,34039,4,64,"Qualcomm Snapdragon 660 AIE","48MP + 5MP "," 13MP",16,4000.0,
+XIAOMI,"POCO X5 PRO 5G ","Horizon Blue",25999,22999,4.4,924,119,6,128,"Qualcomm Snapdragon 778G","108MP + 8MP + 2MP "," 16MP",16.94,5000.0,
+XIAOMI,"POCO F4 5G ","Night Black",32999,25999,4.3,12034,1723,6,128,"Qualcomm Snapdragon 870","64MP + 8MP + 2MP "," 20MP",16.94,4500.0,Lithium
+XIAOMI,"POCO X5 PRO 5G ","Astral Black",25999,22999,4.4,924,119,6,128,"Qualcomm Snapdragon 778G","108MP + 8MP + 2MP "," 16MP",16.94,5000.0,
+XIAOMI,"POCO X5 PRO 5G ","Astral Black",28999,24999,4.4,983,109,8,256,"Qualcomm Snapdragon 778G","108MP + 8MP + 2MP "," 16MP",16.94,5000.0,
+XIAOMI,"POCO X5 PRO 5G ","Horizon Blue",28999,24999,4.4,983,109,8,256,"Qualcomm Snapdragon 778G","108MP + 8MP + 2MP "," 16MP",16.94,5000.0,
+XIAOMI,"POCO X5 PRO 5G ",Yellow,28999,24999,4.4,983,109,8,256,"Qualcomm Snapdragon 778G","108MP + 8MP + 2MP "," 16MP",16.94,5000.0,
+XIAOMI,"REDMI GO ",Blue,17999,5999,4.3,167688,13179,1,16,"Qualcomm Snapdragon 425","8MP "," 5MP",12.7,3000.0,"Lithium Polymer"
+XIAOMI,"REDMI NOTE 10 PRO MAX ","Dark Nebula",22999,19999,4.3,16833,1271,6,128,"Qualcomm Snapdragon 732G","108MP "," 16MP",16.94,5020.0,
+XIAOMI,"POCO M2 PRO ","Green and Greener",17999,19999,4.4,350744,33202,6,128,"Qualcomm Snapdragon 720G","48MP + 8MP + 5MP + 2MP "," 16MP",16.94,5000.0,Lithium
+XIAOMI,"REDMI 10 ","Pacific Blue",14999,9299,4.3,187787,12084,4,64,"Qualcomm Snapdragon 680","50MP + 2MP "," 5MP",17.02,6000.0,"Lithium Polymer"
+XIAOMI,"POCO X2 ","Matrix Purple",17999,20999,4.5,60874,6988,8,256,"Qualcomm Snapdragon 730G","64MP + 8MP + 2MP + 2MP "," 20MP + 2MP Dual",16.94,4500.0,Lithium
+XIAOMI,"REDMI NOTE 9 PRO ","Interstellar Black",17999,14450,4.3,26761,1830,4,64,"QualcommÂ® Snapdragonâ„¢ 720G","48MP + 8MP + 5MP + 2MP "," 16MP",16.94,5020.0,
+XIAOMI,"REDMI 7A ","Matte Blue",17999,6999,4.3,388968,28128,2,32,"Qualcomm Snapdragon 439","12MP "," 5MP",13.84,4000.0,"Lithium Polymer"
+XIAOMI,"REDMI 8 ","Sapphire Blue",10999,10749,4.4,942649,66962,4,64,"Qualcomm Snapdragon 439","12MP + 2MP "," 8MP",15.8,5000.0,
+XIAOMI,"REDMI 10 ","Midnight Black",14999,9299,4.3,187787,12084,4,64,"Qualcomm Snapdragon 680","50MP + 2MP "," 5MP",17.02,6000.0,"Lithium Polymer"
+XIAOMI,"REDMI 10 ","Caribbean Green",14999,9299,4.3,187787,12084,4,64,"Qualcomm Snapdragon 680","50MP + 2MP "," 5MP",17.02,6000.0,"Lithium Polymer"
+XIAOMI,"REDMI NOTE 5 PRO ",Gold,17999,14999,4.5,1171704,122453,4,64,"Qualcomm Snapdragon 636","12MP + 5MP "," 20MP",15.21,4000.0,"Lithium Polymer"
+XIAOMI,"REDMI 8A DUAL ","Sky White",17999,7499,4.3,57135,4170,2,32,"Qualcomm Snapdragon 439","13MP + 2MP "," 8MP",15.8,5000.0,"Lithium Polymer"
+XIAOMI,"POCO F1 ","Rosso Red",17999,21999,4.5,244108,30022,6,64,"Qualcomm Snapdragon 845","12MP + 5MP "," 20MP",15.7,4000.0,"Lithium Polymer"
+XIAOMI,"REDMI NOTE 10 PRO MAX ","Glacial Blue",22999,20390,4.3,16833,1271,6,128,"Qualcomm Snapdragon 732G","108MP "," 16MP",16.94,5020.0,
+XIAOMI,"POCO M2 PRO ","Out of the Blue",17999,17999,4.4,350744,33202,6,64,"Qualcomm Snapdragon 720G","48MP + 8MP + 5MP + 2MP "," 16MP",16.94,5000.0,Lithium
+XIAOMI,"POCO X2 ","Matrix Purple",17999,17999,4.5,271179,28996,6,64,"Qualcomm Snapdragon 730G","64MP + 8MP + 2MP + 2MP "," 20MP + 2MP Dual",16.94,4500.0,Lithium
+XIAOMI,"REDMI GO ",Black,17999,5999,4.3,167688,13179,1,8,"Qualcomm Snapdragon 425","8MP "," 5MP",12.7,3000.0,"Lithium Polymer"
+XIAOMI,"POCO M2 PRO ","Two Shades of Black",17999,17999,4.4,350744,33202,6,64,"Qualcomm Snapdragon 720G","48MP + 8MP + 5MP + 2MP "," 16MP",16.94,5000.0,Lithium
